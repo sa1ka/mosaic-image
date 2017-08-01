@@ -1,0 +1,6 @@
+pic_lab/*
+mini_lab/*
+tmp/*
+*.pyc
+*.pkl
+*.jpg
